@@ -17,8 +17,10 @@
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.30.1",
     "mysql2": "^2.3.3",
-    "sweetalert2": "^11.13.1",
+    "pg": "^8.13.0",
+    "pg-hstore": "^2.3.4",
     "sequelize": "^6.21.3",
+    "sweetalert2": "^11.13.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
